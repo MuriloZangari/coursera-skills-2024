@@ -1,6 +1,6 @@
 # Data Analysis Case Study: Coursera Courses & Skills 2024
 
-This case study was created on [Kaggle Notebook](https://www.kaggle.com/code/murilozangari/coursera-courses-skills-2024/notebook){:target="_blank" rel="noopener noreferrer"}
+This case study was created on Kaggle Notebook.
 
 ## Purpose of the Analysis 
 
