@@ -2,7 +2,7 @@
 
 This case study was created on [Kaggle Notebook](https://www.kaggle.com/code/murilozangari/coursera-courses-skills-2024/notebook) 
 
-# Purpose of the Analysis 
+## Purpose of the Analysis 
 
 Coursera is an online learning platform founded in 2012 by Stanford professors Andrew Ng and Daphne Koller. It offers a wide range of courses, specializations, and degrees in various fields such as computer science, data science, business, humanities, and more. Coursera partners with universities and organizations worldwide to provide high-quality educational content, including video lectures, quizzes, assignments, and peer-reviewed assessments.
 
