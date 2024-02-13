@@ -1,6 +1,6 @@
 # Data Analysis Case Study: Coursera Courses & Skills 2024
 
-This case study was created on <a href="[https://example.com](https://www.kaggle.com/code/murilozangari/coursera-courses-skills-2024/notebook)" target="_blank">Kaggle Notebook</a>
+This case study was created on <a href="https://www.kaggle.com/code/murilozangari/coursera-courses-skills-2024/notebook" target="_blank">Kaggle Notebook</a>
 
 ## Purpose of the Analysis 
 
